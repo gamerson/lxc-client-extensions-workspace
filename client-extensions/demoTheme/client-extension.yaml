@@ -1,0 +1,11 @@
+demoThemeCSS:
+  name: Demo Theme CSS
+  type: themeCSS
+  sourceCodeURL: https://www.liferay.com
+  mainURL: css/main.css
+
+demoThemeFavicon:
+  name: Demo Theme Favicon
+  type: themeFavicon
+  sourceCodeURL: https://www.liferay.com
+  url: favicon.ico
