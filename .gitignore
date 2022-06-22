@@ -9,6 +9,7 @@
 **/build_gradle
 **/dist
 **/node_modules
+**/node_modules_cache
 **/test-coverage
 **/tmp
 **/.web_bundle_build
