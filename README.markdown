@@ -6,6 +6,9 @@ Follow the instructions in the Setup/Install section to install all the tools / 
 
 1. Install JDK11 from here: https://www.azul.com/downloads/?version=java-11-lts&package=jdk
 
+   If another JDK is already installed, that is fine, use whatever package manager is available to install java11(jdk).  Just make sure that java is in system PATH and JAVA_HOME env var is set accordingly.
+   The tooling only is known to work with Java11 or Java8.  Java greater than 11 is not officially supported (and likely wont work) at this time.
+
 2. Install blade with this command:
    ```bash
    curl https://raw.githubusercontent.com/liferay/liferay-blade-cli/master/cli/installers/local -fsSL | bash
