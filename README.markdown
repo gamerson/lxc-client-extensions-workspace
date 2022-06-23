@@ -8,7 +8,7 @@ Follow the instructions in the Setup/Install section to install all the tools / 
 
 2. Install blade with this command:
    ```bash
-   curl https://raw.githubusercontent.com/liferay/liferay-blade-cli/master/cli/installers/global -fsSL | bash
+   curl https://raw.githubusercontent.com/liferay/liferay-blade-cli/master/cli/installers/local -fsSL | bash
    ```
 
 3. Add blade to your path:
