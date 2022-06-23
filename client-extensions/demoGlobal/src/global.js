@@ -1,1 +1,1 @@
-console.log("Demo Global JavaScript deployed.");
+console.log("Global JavaScript deployed.");
