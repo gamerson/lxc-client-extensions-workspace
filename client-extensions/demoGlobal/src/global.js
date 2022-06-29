@@ -1,1 +1,1 @@
-console.log("Global JavaScript deployed.");
+window.alert('Global JS Deployed');
